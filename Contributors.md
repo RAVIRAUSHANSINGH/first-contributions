@@ -112,6 +112,7 @@
 - [PatentLobster](https://github.com/PatentLobster)
 - [Varun Prashant Kadkade](https://github.com/varun2430)
 - [Aditya Vijay](https://github.com/kiriotheo)
+- [Ravi Raushan Kumar](https://github.com/RAVIRAUSHANSINGH)
 - [Strelets Alexander](https://github.com/Tenkoru)
 - [Indranil Saha](https://github.com/saha-indranil)
 - Ashifa Fatima
